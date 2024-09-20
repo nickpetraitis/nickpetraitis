@@ -21,7 +21,7 @@ I'm a digital marketing analyst and graduate business analytics student wih a pa
 
 ## Contact
 
-Email Me @ nickpetraitis@gmail.com
+Email Me @ [nickpetraitis@gmail.com]
 
 
 
