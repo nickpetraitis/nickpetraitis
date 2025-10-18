@@ -1,27 +1,20 @@
-# Nick Petraitis Portfolio
+<h1>Hi, I'm Nick! <br/></h1>
 
-## About Me
-I'm a digital marketing analyst and graduate business analytics student wih a passion for
-- Machine Learning
-- Data Analysis
-- Coding
+<h2>👨‍💻 Marketing Analytics Projects:</h2>
 
-
-## Experience
-
-### Digital Marketing Analyst - Automotive Internet Media
-- Onboarded new clients by explaining the process and setting up their websites and marketing campaigns for data collection. 
-- Analyzed clients’ campaigns and gathered insights to improve existing campaigns as well as implement new campaigns.
-- Managed customer’s monthly budget and recommended changes to enhance performance 
-
-### Project Manager - Source4
-- Curated promotional materials for clients’ marketing needs 
-- Fulfilled client orders through CMS platforms such as Shopify
-- Maintained project documentation, including expenses, specifications, and revisions while communicating with client throughout the project lifecycle
-
-## Contact
-
-Email Me @ nickpetraitis@gmail.com
-
-
+- <b>Python</b>
+  - [🛒 Grocery Store Market Basket Analysis](https://colab.research.google.com/drive/1Cq7vPmUcmcadLbQbPFlazoj5legACIZo) <b>(Association Rule Mining using Apriori Algorithm)</b>
+- <b>R</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>SQL</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
