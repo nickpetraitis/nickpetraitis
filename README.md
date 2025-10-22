@@ -3,7 +3,7 @@
 <h2>👨‍💻 Marketing Analytics Projects:</h2>
 
 - <b>Python</b>
-  - [🛒 Grocery Store Market Basket Analysis](https://colab.research.google.com/drive/1Cq7vPmUcmcadLbQbPFlazoj5legACIZo) <b>(Association Rule Mining using Apriori Algorithm)</b>
+  - [🛒 Grocery Store Market Basket Analysis](https://colab.research.google.com/drive/1Cq7vPmUcmcadLbQbPFlazoj5legACIZo)
 - <b>R</b>
   - [filler](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>SQL</b>
@@ -17,5 +17,6 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 
